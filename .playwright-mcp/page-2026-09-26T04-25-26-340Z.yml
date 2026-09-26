@@ -1,0 +1,81 @@
+- main [ref=e2]:
+  - generic [ref=e3]:
+    - navigation [ref=e4]:
+      - generic [ref=e5]:
+        - link "Hallownest" [ref=e6] [cursor=pointer]:
+          - /url: "#"
+        - link "Buy" [ref=e8] [cursor=pointer]:
+          - /url: https://store.steampowered.com/app/367520/Hollow_Knight/
+    - generic [ref=e12]:
+      - heading "Hollow Knight" [level=1] [ref=e13]
+      - paragraph [ref=e15]: Beneath the fading town of Dirtmouth sleeps an ancient, ruined kingdom. Many are drawn below. Few return.
+      - navigation "Start" [ref=e16]:
+        - link "Descend Now" [ref=e18] [cursor=pointer]:
+          - /url: https://store.steampowered.com/app/367520/Hollow_Knight/
+        - link "See the Kingdom" [ref=e20] [cursor=pointer]:
+          - /url: "#gallery"
+        - link "The Journey" [ref=e22] [cursor=pointer]:
+          - /url: "#journey"
+    - generic [ref=e24]:
+      - paragraph [ref=e43]: An epic action adventure through a vast ruined kingdom of insects and heroes.
+      - paragraph [ref=e44]: Explore twisting caverns, battle tainted creatures and befriend bizarre bugs, all in a classic, hand-drawn 2D style.
+    - generic [ref=e45]:
+      - generic [ref=e46]:
+        - img "The Knight crossing a bridge in the overgrown teal caverns of Greenpath" [ref=e50]
+        - generic [ref=e51]:
+          - heading "Explore a vast, ruined kingdom" [level=2] [ref=e55]
+          - paragraph [ref=e56]: Twisting caverns, ancient cities and deadly wastes, all interconnected. Buy maps from Cornifer, find your way, and uncover what lies beneath.
+      - generic [ref=e57]:
+        - img "The Knight striking a husk sentry beneath lamplight in a blue city street" [ref=e61]
+        - generic [ref=e62]:
+          - heading "Battle tainted creatures" [level=2] [ref=e72]
+          - paragraph [ref=e73]: Over 130 enemies and 30 bosses. Sharpen your nail, read every tell, and stand against knights, beasts and gods.
+      - generic [ref=e74]:
+        - img "The Charms inventory screen showing equipped charms and the Propede Shell" [ref=e78]
+        - generic [ref=e79]:
+          - heading "Forge your own path" [level=2] [ref=e83]
+          - paragraph [ref=e84]: Collect more than forty Charms, each changing how you fight and explore. Mix, match, and build a Knight that is entirely yours.
+      - generic [ref=e85]:
+        - img "Relic Seeker Lemm behind his desk in a dim shop full of antiquities" [ref=e89]
+        - generic [ref=e90]:
+          - heading "Uncover forgotten lore" [level=2] [ref=e93]
+          - paragraph [ref=e94]: Befriend bizarre bugs, trade relics with scholars, and piece together the fall of Hallownest one whisper at a time.
+    - generic [ref=e96]:
+      - generic [ref=e97]:
+        - term [ref=e98]: Charms
+        - definition [ref=e99]: 40+
+        - definition [ref=e100]: Charms
+      - generic [ref=e101]:
+        - term [ref=e102]: Enemies
+        - definition [ref=e103]: 130+
+        - definition [ref=e104]: Enemies
+      - generic [ref=e105]:
+        - term [ref=e106]: Bosses
+        - definition [ref=e107]: 30+
+        - definition [ref=e108]: Bosses
+      - generic [ref=e109]:
+        - term [ref=e110]: Free content packs
+        - definition [ref=e111]: "4"
+        - definition [ref=e112]: Free content packs
+    - generic [ref=e113]:
+      - heading "The Kingdom Below" [level=2] [ref=e115]
+      - paragraph [ref=e117]: Every corner of Hallownest is hand-drawn, each with its own light, music and dangers.
+      - generic [ref=e118]:
+        - figure "Greenpath" [ref=e121]:
+          - img "Screenshot of Greenpath" [ref=e122]
+        - figure "Crystal Peak" [ref=e134]:
+          - img "Screenshot of Crystal Peak" [ref=e135]
+        - figure "Fungal Wastes" [ref=e147]:
+          - img "Screenshot of Fungal Wastes" [ref=e148]
+        - figure "The Grimm Troupe" [ref=e160]:
+          - img "Screenshot of The Grimm Troupe" [ref=e161]
+        - figure "Godhome" [ref=e173]:
+          - img "Screenshot of Godhome" [ref=e174]
+        - figure "Resting at a Bench" [ref=e186]:
+          - img "Screenshot of Resting at a Bench" [ref=e187]
+    - generic [ref=e198]:
+      - heading "Your Journey Awaits" [level=2] [ref=e200]
+      - paragraph [ref=e201]: Available on PC, Mac, Linux, Nintendo Switch, PlayStation and Xbox.
+      - link "Get Hollow Knight" [ref=e202] [cursor=pointer]:
+        - /url: https://store.steampowered.com/app/367520/Hollow_Knight/
+    - paragraph [ref=e204]: Fan-made showcase. Not affiliated with Team Cherry. Hollow Knight and all game art © Team Cherry.

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 86 86">
+  <!-- The game's pointer: a hollow, barbed arrow in pale ink. Hotspot at the tip (2,2). -->
+  <path d="M6 6L57 33C61 34 64 32 66 26C64 34 56 38 46 41Q42 45 44 51L55 55Q47 57 48 62L57 78Q50 67 44 66L35 65Q32 62 33 57L19 56Q16 64 10 74Q14 60 13 50L11 16Z" fill="none" stroke="#08131c" stroke-width="9.5" stroke-linejoin="miter" stroke-miterlimit="14"/>
+  <path d="M6 6L57 33C61 34 64 32 66 26C64 34 56 38 46 41Q42 45 44 51L55 55Q47 57 48 62L57 78Q50 67 44 66L35 65Q32 62 33 57L19 56Q16 64 10 74Q14 60 13 50L11 16Z" fill="none" stroke="#f2f1ea" stroke-width="6" stroke-linejoin="miter" stroke-miterlimit="14"/>
+</svg>
